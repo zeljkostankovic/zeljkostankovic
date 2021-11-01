@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Build modern app experiences
+Building modern app experiences
 
 <!--
 **zeljkostankovic/zeljkostankovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
