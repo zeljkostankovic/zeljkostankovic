@@ -3,7 +3,7 @@
 Building modern app experiences
 
 Languages and Tools:
-aws azure babel backbonejs bash bootstrap c canvasjs chartjs codeigniter css3 cypress d3js docker electron express figma flask gatsby git gulp html5 jasmine javascript jenkins jest kubernetes linux mariadb materialize mocha mongodb mysql nginx nodejs perl photoshop php postgresql postman pug puppeteer python react reactnative redis redux ruby sass selenium sketch solr sqlite tailwind typescript webpack
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="max-width: 100%;">
 
 <!--
 **zeljkostankovic/zeljkostankovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
